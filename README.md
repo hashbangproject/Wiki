@@ -1,4 +1,1 @@
-test
-====
-
-test
+Go to the "wiki":wiki/Home
