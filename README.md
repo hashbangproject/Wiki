@@ -1,1 +1,2 @@
-Go to the "wiki":wiki/Home
+Go to the [wiki](https://github.com/hashbangproject/Wiki/wiki)
+=========
